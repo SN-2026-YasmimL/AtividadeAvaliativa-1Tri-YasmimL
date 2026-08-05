@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T13:42:19.109881+00:00",
+  "updated_at": "2026-08-05T13:38:26.564421+00:00",
   "airport_icao": "SBRB",
   "airport_name": "Rio Branco",
   "source": "AviationStack",
@@ -9,8 +9,8 @@
       "airline": "GOL",
       "airport": "SBCZ",
       "airport_name": "SBCZ",
-      "scheduled": "2026-08-04T13:50:00+00:00",
-      "time_iso": "2026-08-04T13:50:00+00:00",
+      "scheduled": "2026-08-05T13:50:00+00:00",
+      "time_iso": "2026-08-05T13:50:00+00:00",
       "status": "programado"
     },
     {
@@ -18,9 +18,108 @@
       "airline": "Azul",
       "airport": "SBCZ",
       "airport_name": "SBCZ",
-      "scheduled": "2026-08-04T13:50:00+00:00",
-      "time_iso": "2026-08-04T13:50:00+00:00",
+      "scheduled": "2026-08-05T13:50:00+00:00",
+      "time_iso": "2026-08-05T13:50:00+00:00",
       "status": "programado"
+    },
+    {
+      "callsign": "G31758",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T10:00:00+00:00",
+      "time_iso": "2026-08-05T09:51:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AD3007",
+      "airline": "Azul",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T10:00:00+00:00",
+      "time_iso": "2026-08-05T09:51:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3267",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-04T23:40:00+00:00",
+      "time_iso": "2026-08-04T23:31:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31784",
+      "airline": "GOL",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-08-05T00:50:00+00:00",
+      "time_iso": "2026-08-05T00:40:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD3100",
+      "airline": "Azul",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-08-05T00:50:00+00:00",
+      "time_iso": "2026-08-05T00:40:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3267",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-04T23:40:00+00:00",
+      "time_iso": "2026-08-04T23:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5741",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-04T23:40:00+00:00",
+      "time_iso": "2026-08-04T23:31:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31760",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-04T22:35:00+00:00",
+      "time_iso": "2026-08-04T22:51:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD3004",
+      "airline": "Azul",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-04T22:35:00+00:00",
+      "time_iso": "2026-08-04T22:51:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31759",
+      "airline": "GOL",
+      "airport": "SBCZ",
+      "airport_name": "SBCZ",
+      "scheduled": "2026-08-04T13:50:00+00:00",
+      "time_iso": "2026-08-04T13:29:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD3002",
+      "airline": "Azul",
+      "airport": "SBCZ",
+      "airport_name": "SBCZ",
+      "scheduled": "2026-08-04T13:50:00+00:00",
+      "time_iso": "2026-08-04T13:29:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD3049",
@@ -28,8 +127,8 @@
       "airport": "SBCZ",
       "airport_name": "SBCZ",
       "scheduled": "2026-08-04T13:50:00+00:00",
-      "time_iso": "2026-08-04T13:50:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T13:29:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD3007",
@@ -37,7 +136,7 @@
       "airport": "SBBR",
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T10:00:00+00:00",
-      "time_iso": "2026-08-04T10:02:00+00:00",
+      "time_iso": "2026-08-04T10:03:00+00:00",
       "status": "em voo"
     },
     {
@@ -46,7 +145,7 @@
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
       "scheduled": "2026-08-04T11:15:00+00:00",
-      "time_iso": "2026-08-04T11:25:00+00:00",
+      "time_iso": "2026-08-04T11:23:00+00:00",
       "status": "em voo"
     },
     {
@@ -55,7 +154,7 @@
       "airport": "SBBR",
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T10:00:00+00:00",
-      "time_iso": "2026-08-04T10:02:00+00:00",
+      "time_iso": "2026-08-04T10:03:00+00:00",
       "status": "em voo"
     },
     {
@@ -64,107 +163,8 @@
       "airport": "SBBR",
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T10:00:00+00:00",
-      "time_iso": "2026-08-04T10:02:00+00:00",
+      "time_iso": "2026-08-04T10:03:00+00:00",
       "status": "em voo"
-    },
-    {
-      "callsign": "JJ3267",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T23:40:00+00:00",
-      "time_iso": "2026-08-03T23:37:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "LA3267",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T23:40:00+00:00",
-      "time_iso": "2026-08-03T23:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5741",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T23:40:00+00:00",
-      "time_iso": "2026-08-03T23:37:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "G31759",
-      "airline": "GOL",
-      "airport": "SBCZ",
-      "airport_name": "SBCZ",
-      "scheduled": "2026-08-03T13:50:00+00:00",
-      "time_iso": "2026-08-03T13:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD3049",
-      "airline": "Azul",
-      "airport": "SBCZ",
-      "airport_name": "SBCZ",
-      "scheduled": "2026-08-03T13:50:00+00:00",
-      "time_iso": "2026-08-03T13:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD3002",
-      "airline": "Azul",
-      "airport": "SBCZ",
-      "airport_name": "SBCZ",
-      "scheduled": "2026-08-03T13:50:00+00:00",
-      "time_iso": "2026-08-03T13:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD3009",
-      "airline": "Azul",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T10:00:00+00:00",
-      "time_iso": "2026-08-03T09:50:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4598",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-08-03T11:15:00+00:00",
-      "time_iso": "2026-08-03T11:06:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G31758",
-      "airline": "GOL",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T10:00:00+00:00",
-      "time_iso": "2026-08-03T09:50:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AV2643",
-      "airline": "avianca",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T10:00:00+00:00",
-      "time_iso": "2026-08-03T09:50:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD3007",
-      "airline": "Azul",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T10:00:00+00:00",
-      "time_iso": "2026-08-03T09:50:00+00:00",
-      "status": "pousado"
     }
   ],
   "departures": [
@@ -173,9 +173,126 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-08-04T14:30:00+00:00",
-      "time_iso": "2026-08-04T14:30:00+00:00",
+      "scheduled": "2026-08-05T14:30:00+00:00",
+      "time_iso": "2026-08-05T14:30:00+00:00",
       "status": "programado"
+    },
+    {
+      "callsign": "CM3529",
+      "airline": "Copa Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T14:30:00+00:00",
+      "time_iso": "2026-08-05T14:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD3049",
+      "airline": "Azul",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T14:30:00+00:00",
+      "time_iso": "2026-08-05T14:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31758",
+      "airline": "GOL",
+      "airport": "SBCZ",
+      "airport_name": "SBCZ",
+      "scheduled": "2026-08-05T10:40:00+00:00",
+      "time_iso": "2026-08-05T10:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD3107",
+      "airline": "Azul",
+      "airport": "SBCZ",
+      "airport_name": "SBCZ",
+      "scheduled": "2026-08-05T10:40:00+00:00",
+      "time_iso": "2026-08-05T10:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3675",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T00:25:00+00:00",
+      "time_iso": "2026-08-05T00:24:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31761",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T01:50:00+00:00",
+      "time_iso": "2026-08-05T01:49:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AV2644",
+      "airline": "avianca",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T01:50:00+00:00",
+      "time_iso": "2026-08-05T01:49:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD3098",
+      "airline": "Azul",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T01:50:00+00:00",
+      "time_iso": "2026-08-05T01:49:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3675",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T00:25:00+00:00",
+      "time_iso": "2026-08-05T00:25:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP5698",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-05T00:25:00+00:00",
+      "time_iso": "2026-08-05T00:24:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31785",
+      "airline": "GOL",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-08-04T23:50:00+00:00",
+      "time_iso": "2026-08-04T23:52:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD3107",
+      "airline": "Azul",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-08-04T23:50:00+00:00",
+      "time_iso": "2026-08-04T23:52:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31759",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-08-04T14:30:00+00:00",
+      "time_iso": "2026-08-04T14:29:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "CM3529",
@@ -184,7 +301,7 @@
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T14:30:00+00:00",
       "time_iso": "2026-08-04T14:30:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "AD3049",
@@ -193,7 +310,7 @@
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T14:30:00+00:00",
       "time_iso": "2026-08-04T14:30:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "CM3595",
@@ -201,8 +318,8 @@
       "airport": "SBBR",
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T14:30:00+00:00",
-      "time_iso": "2026-08-04T14:30:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T14:29:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD3051",
@@ -210,8 +327,8 @@
       "airport": "SBBR",
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T14:30:00+00:00",
-      "time_iso": "2026-08-04T14:30:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T14:29:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD4599",
@@ -219,8 +336,8 @@
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
       "scheduled": "2026-08-04T11:55:00+00:00",
-      "time_iso": "2026-08-04T11:55:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T12:21:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "G31758",
@@ -228,8 +345,8 @@
       "airport": "SBCZ",
       "airport_name": "SBCZ",
       "scheduled": "2026-08-04T10:40:00+00:00",
-      "time_iso": "2026-08-04T10:40:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T10:42:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "AD3107",
@@ -237,8 +354,8 @@
       "airport": "SBCZ",
       "airport_name": "SBCZ",
       "scheduled": "2026-08-04T10:40:00+00:00",
-      "time_iso": "2026-08-04T10:40:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T10:42:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "AD3098",
@@ -246,8 +363,8 @@
       "airport": "SBCZ",
       "airport_name": "SBCZ",
       "scheduled": "2026-08-04T10:40:00+00:00",
-      "time_iso": "2026-08-04T10:40:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-08-04T10:42:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "JJ3675",
@@ -274,132 +391,6 @@
       "airport_name": "Brasilia",
       "scheduled": "2026-08-04T00:25:00+00:00",
       "time_iso": "2026-08-04T00:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G31759",
-      "airline": "GOL",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T14:30:00+00:00",
-      "time_iso": "2026-08-03T14:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "CM3595",
-      "airline": "Copa Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T14:30:00+00:00",
-      "time_iso": "2026-08-03T14:31:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AD3051",
-      "airline": "Azul",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T14:30:00+00:00",
-      "time_iso": "2026-08-03T14:31:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "CM3737",
-      "airline": "Copa Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T14:30:00+00:00",
-      "time_iso": "2026-08-03T14:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD3049",
-      "airline": "Azul",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T14:30:00+00:00",
-      "time_iso": "2026-08-03T14:31:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4599",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-08-03T11:55:00+00:00",
-      "time_iso": "2026-08-03T11:57:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G31758",
-      "airline": "GOL",
-      "airport": "SBCZ",
-      "airport_name": "SBCZ",
-      "scheduled": "2026-08-03T10:40:00+00:00",
-      "time_iso": "2026-08-03T10:39:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AD3098",
-      "airline": "Azul",
-      "airport": "SBCZ",
-      "airport_name": "SBCZ",
-      "scheduled": "2026-08-03T10:40:00+00:00",
-      "time_iso": "2026-08-03T10:39:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AD3107",
-      "airline": "Azul",
-      "airport": "SBCZ",
-      "airport_name": "SBCZ",
-      "scheduled": "2026-08-03T10:40:00+00:00",
-      "time_iso": "2026-08-03T10:39:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3675",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T00:25:00+00:00",
-      "time_iso": "2026-08-03T00:28:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G39149",
-      "airline": "GOL",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T01:50:00+00:00",
-      "time_iso": "2026-08-03T01:50:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD3145",
-      "airline": "Azul",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T01:50:00+00:00",
-      "time_iso": "2026-08-03T01:50:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3675",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T00:25:00+00:00",
-      "time_iso": "2026-08-03T00:28:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "TP5698",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-08-03T00:25:00+00:00",
-      "time_iso": "2026-08-03T00:28:00+00:00",
       "status": "pousado"
     }
   ]
